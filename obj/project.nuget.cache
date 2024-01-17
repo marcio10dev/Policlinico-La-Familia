@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "7371PhkYlK5UOFi1rMd6bpw6wXhPYlx8/I5dRYKuv9yTyc5muYkU7lu9+h13TJrIiRwhb790+cS/p5pBN5JK3w==",
+  "success": true,
+  "projectFilePath": "D:\\ApiWeb_LopezMarcio\\Policlino La Familia\\Policlinico La Familia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alejandro Lopez\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Alejandro Lopez\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Alejandro Lopez\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Alejandro Lopez\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Alejandro Lopez\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Alejandro Lopez\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
